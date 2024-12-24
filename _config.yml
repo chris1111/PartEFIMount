@@ -1,0 +1,5 @@
+title: PartEFIMount
+description: A tool to mount EFI partitions in macOS
+github:
+  repository_url: https://github.com/chris1111/PartEFIMount
+remote_theme: chris1111/cayman-dark
