@@ -13,6 +13,6 @@ git clone https://github.com/chris1111/PartEFIMount.git
 ```
 
 ------------------------------------------------------- 
-https://github.com/user-attachments/assets/ddf5ee08-9160-4c45-a23d-793edbf3e55c
+https://github.com/user-attachments/assets/be4cfbb3-7cba-4790-80eb-9bd6b3176b7d
 
 
