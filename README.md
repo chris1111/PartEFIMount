@@ -6,6 +6,7 @@
  
 [View Script](https://github.com/chris1111/PartEFIMount/blob/main/PartEFIMount)
 
+Video How to ➤ [Build App](https://github.com/chris1111/PartEFIMount/blob/main/Build-App.md)
 
 - [x] `Clone PartEFIMount:`
 ```bash
